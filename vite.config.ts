@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite' // 追加
 
 export default defineConfig({
+  base: '/tenki/',
   plugins: [
     react(),
     tailwindcss(), // 追加
