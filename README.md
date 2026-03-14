@@ -1,6 +1,6 @@
 # 天気アプリ
-
 日本各地の天気予報を表示するシンプルなWebアプリです。
+https://kana10-dev.github.io/tenki/
 
 ## 機能
 
